@@ -1,0 +1,9 @@
+
+c
+java:S1128"ARemove this unused import 'javax.validation.constraints.NotNull'.(áç¥ãüÿÿÿÿ8©øÑÑÔ/
+^
+java:S1128"BRemove this unused import 'javax.validation.constraints.NotEmpty'.(ÿÿör8í¯àÍÔ/
+U
+java:S1128"8Remove this unused import 'javax.persistence.FetchType'.(‡¯¿8ÈİêÔ/
+`
+java:S1128"DRemove this unused import 'io.swagger.annotations.ApiModelProperty'.(í˜í8²ÕîÑÔ/

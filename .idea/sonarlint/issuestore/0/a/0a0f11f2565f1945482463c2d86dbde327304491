@@ -1,0 +1,10 @@
+
+}
+java:S1128
+"`Remove this unused import 'org.springframework.data.redis.serializer.RedisSerializationContext'.(¨ˆì8Å¿ÍÓÓ/
+Q
+java:S1128"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ8Å¿ÍÓÓ/
+‹
+java:S1128	"iRemove this unused import 'org.springframework.data.redis.serializer.GenericJackson2JsonRedisSerializer'.(ˆƒ’Îşÿÿÿÿ8Å¿ÍÓÓ/
+{
+java:S1128"YRemove this unused import 'org.springframework.data.redis.cache.RedisCacheConfiguration'.(ÏÀÉ®ûÿÿÿÿ8Å¿ÍÓÓ/
